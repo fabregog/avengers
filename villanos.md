@@ -5,3 +5,4 @@
 3. Thanos.
 4. Nito Cortizo
 5. Benicio Robinson
+6. Zulay Pinto
